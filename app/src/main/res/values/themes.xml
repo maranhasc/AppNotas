@@ -1,0 +1,20 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Note" parent="Theme.Material3.DayNight">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="android:background">@color/marronc</item>
+        <item name="android:textColor">@color/beige</item>
+        <item name="android:text">@color/beige</item>
+        <item name="colorPrimary">@color/beige</item>
+        <item name="colorSecondary">@color/beige</item>
+        <item name="color">@color/beige</item>
+        <item name="colorPrimaryDark">@color/beige</item>
+        <item name="colorAccent">@color/beige</item>
+
+    </style>
+
+    <style name="Theme.Note" parent="Base.Theme.Note" />
+
+    <color name="marronc">#9D6E4C</color>
+</resources>
